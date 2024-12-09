@@ -1,0 +1,30 @@
+body {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    background-color: lightcyan;
+  }
+  
+  h1 {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  h3 {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+  }
+
+  p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif 12px;
+    font: size: 50px;
+  }
+  
+  
+
+  /* Remove the following style for div to remove the border. */
+  
+  div {
+    border-style: solid;
+    border: 1px solid transparent;
+  }
